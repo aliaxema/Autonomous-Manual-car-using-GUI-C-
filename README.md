@@ -1,7 +1,7 @@
 # Autonomous-Manual-car-using-GUI-C-
 
 
-A simple car connected to a PC (wired or wireless [wireless is desired]), having 2 modes of operation,
+A simple car connected to a PC (wireless), having 2 modes of operation,
 that the user can select through the GUI. First mode is manual mode, where the user can control car
 movements through the GUI using buttons. Second mode is autonomous mode, when selected through
 GUI by user, in which the car keeps moving while avoiding collisions using its on-board sensors
